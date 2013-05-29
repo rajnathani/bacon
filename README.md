@@ -46,6 +46,23 @@ and created a common merged data structure for actors (both male and female) to 
 data structure which is movies to actors. After the creation of these two vital data structures I've pickled (using cPickle)
 them into two separate files which in turn can be loaded back into python dictionaries as those were before, from bacon.py, and used for the game.
 
+###How exactly do I get started?
+The repository contains a python file name 'bacon.py', run this with python.  
+If python is present in your path/environment variables you could simply cd to the working directory of the repository and
+type:  
+  python bacon.py
+After which there will be a few second wait (while the program is unpickling the data structures from their respective files)
+the following will be displayed:
+  Loading the pickled data structure of actors to movies ...
+  Loading the pickled data structure of movies to actors ...
+  Please enter an actor (or press return to exit): 
+  
+###Is my machine good enough to run this program?
+This brings us to a really important aspect of the program. As the two data structures of actors to movies, and movies to actors
+are loaded by the program in memory (as dictionaries), roughly around 1.9 GB of RAM is occupied by the program. Thus having
+a machine with a memory of atleast 4 GB is highly recommended here.
+
+
 ###Can I run make_bacon.py?
 In order to give you a better picture of the parsing of the IMDB files (in case you would also give a go at it) I've included
 make_bacon.py
