@@ -1,0 +1,31 @@
+CRC: 0xDE308B96	 File: actors.list	Date: Fri Aug 12 00:00:00 2011
+
+Copyright 1990-2007 The Internet Movie Database, Inc.  All rights reserved.
+
+COPYING POLICY: Internet Movie Database (IMDb)
+==============================================
+
+CUTTING COPYRIGHT NOTICE
+
+THE ACTORS LIST
+===============
+
+Name					Titles
+----					------
+Gore, Al				'Hick' Town (2009)	[Himself]
+						Hillary! Uncensored: Banned by the Media (2008) (V)	 (archive footage)	[Himself]
+						Johnny Cash's America (2008)  [Himself]	 <9>
+						Journeys with George (2002)	 (archive footage)	[Himself]
+						Last Days on Earth (2006) (TV)	[Himself]
+
+Langford, Jon			At Last, Okemah! (2009)	 [Himself]	<5>
+						Cavedweller (2004)	(as Jonathan Langford)	[Herman]  <14>
+						Johnny Cash's America (2008)	 [Himself]	 <29>
+
+-----------------------------------------------------------------------------
+SUBMITTING UPDATES
+==================
+
+CUTTING UPDATES
+
+For further info visit http://www.imdb.com/licensing/contact

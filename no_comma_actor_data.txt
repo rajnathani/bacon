@@ -1,0 +1,26 @@
+CRC: 0xDE308B96	 File: actors.list	Date: Fri Aug 12 00:00:00 2011
+
+Copyright 1990-2007 The Internet Movie Database, Inc.  All rights reserved.
+
+COPYING POLICY: Internet Movie Database (IMDb)
+==============================================
+
+CUTTING COPYRIGHT NOTICE
+
+THE ACTORS LIST
+===============
+
+Name					Titles
+----					------
+Elvis		Rubber Johnny (2005)  [Dog]
+
+LL Cool J		10th Anniversary Essence Awards (1997) (TV)  [Himself]
+			17th Annual Screen Actors Guild Awards (2011) (TV)  [Himself]
+
+-----------------------------------------------------------------------------
+SUBMITTING UPDATES
+==================
+
+CUTTING UPDATES
+
+For further info visit http://www.imdb.com/licensing/contact

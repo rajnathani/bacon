@@ -1,0 +1,57 @@
+CRC: 0xDE308B96	 File: actors.list	Date: Fri Aug 12 00:00:00 2011
+
+Copyright 1990-2007 The Internet Movie Database, Inc.  All rights reserved.
+
+COPYING POLICY: Internet Movie Database (IMDb)
+==============================================
+
+CUTTING COPYRIGHT NOTICE
+
+THE ACTORS LIST
+===============
+
+Name					Titles
+----					------
+Avalon, Frankie		"Live Wednesday" (1978) {(1978-11-15)}  [Himself]
+			"Love, American Style" (1969) {Love and the Accidental Passion/Love and the Black Limousine/Love and the
+Eskimo's Wife/Love and the Tuba (#3.11)}  [(segment "Love and the Tuba")]
+
+Baldwin, Stephen (I)	"Clerks" (2000) {The Clipshow Wherein Dante and Randal Are Locked in the Freezer and Remember Some of
+the Great Moments in Their Lives (#1.2)}  (voice)  [Leonardo Leonardo]  <5>
+
+Byrnes, Jim (I)		The 53rd Annual Golden Globe Awards (1996) (TV)  [Himself - Winner: Best Actor in a Motion Picture - Drama
+& Presenter: Cecil B. DeMille Award]
+
+-----------------------------------------------------------------------------
+
+COPYING POLICY
+==============
+
+This file is copyright (c) 1990-2005 by The Internet Movie Database Ltd. All 
+rights reserved.
+
+Disclaimer
+----------
+   
+    This is a  database  of  movie  related  information  compiled  by
+    Internet  Movie  Database  Ltd (IMDb). While every effort has been
+    made to  ensure  the  accuracy  of  the  database  IMDb  gives  no
+    warranty  as  to  the accuracy of the information contained in the
+    database.  IMDb  reserves  the  right  to   withdraw   or   delete
+    information at any time. 
+       
+    This service is provided for the information of users only. It  is
+    not   provided  with  the  intention  that  users  rely  upon  the
+    information for any purposes. Accordingly,  IMDb  shall  under  no
+    circumstances  be liable for any loss or damage, including but not
+    limited to loss of profits, goodwill or indirect or  consequential
+    loss   arising   out   of  any  use  of  or  inaccuracies  in  the
+    information. All warranties express or  implied  are  excluded  to
+    the fullest extent permissible by law. 
+       
+    All information in this file  is  Copyright  2005  Internet  Movie
+    Database  Limited.  Reproduction,  distribution or transmission by
+    any means without the prior permission of IMDb is prohibited.  All
+    rights reserved. 
+
+    For further information contact <licensing@imdb.com>

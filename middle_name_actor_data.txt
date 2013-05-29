@@ -1,0 +1,27 @@
+CRC: 0xDE308B96	 File: actors.list	Date: Fri Aug 12 00:00:00 2011
+
+Copyright 1990-2007 The Internet Movie Database, Inc.  All rights reserved.
+
+COPYING POLICY: Internet Movie Database (IMDb)
+==============================================
+
+CUTTING COPYRIGHT NOTICE
+
+THE ACTORS LIST
+===============
+
+Name					Titles
+----					------
+Anderson, Richard Dean	05 Spaceys (2005) (TV)  [Himself]
+			06 Spaceys (2006) (TV)  [Himself]
+
+De Niro, Robert			Showtime (2002)	 [Det. Mitch Preston]  <1>
+						Sleepers (1996)	 [Father Bobby]	 <3>
+
+-----------------------------------------------------------------------------
+SUBMITTING UPDATES
+==================
+
+CUTTING UPDATES
+
+For further info visit http://www.imdb.com/licensing/contact
