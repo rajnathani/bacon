@@ -1,7 +1,7 @@
 bacon
 =====
 
-Python implementation of the game 'Oracle of Bacon' using the IMDB repository of actors and actresses.
+Python implementation of the game 'Oracle of Bacon' using the IMDB data of actors and movies.
 
 ###What is 'Oracle of Bacon'?
 
