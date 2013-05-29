@@ -5,9 +5,10 @@ Python implementation of the game 'Oracle of Bacon' using the IMDB repository of
 
 ###What is 'Oracle of Bacon'?
 
-Oracle of Bacon is a game where the goal is to find an actor/actress with the furthest movie distance
+Oracle of Bacon (aka 6 degrees of Bacon) is a game where the goal is to find an actor/actress with the furthest movie distance
 from the renowned actor Kevin Bacon. The game was created quite sometime ago and is available at
-[www.oracleofbacon.org](http://www.oracleofbacon.org).
+[www.oracleofbacon.org](http://www.oracleofbacon.org). Google recently integrated 6 degrees of Bacon into its
+search results, to use it all you would have to do is type '< actor's name > bacon number' as a search query. 
 
 ###Can you elaborate please?
 The movie distance between any two actors is calculated by searching
@@ -47,16 +48,30 @@ data structure which is movies to actors. After the creation of these two vital 
 them into two separate files which in turn can be loaded back into python dictionaries as those were before, from bacon.py, and used for the game.
 
 ###How exactly do I get started?
-The repository contains a python file name 'bacon.py', run this with python.  
+The repository contains a python file name *bacon.py*, run this with python.  
 If python is present in your path/environment variables you could simply cd to the working directory of the repository and
-type:  
-  python bacon.py
+type:    
+
+    python bacon.py
+    
 After which there will be a few second wait (while the program is unpickling the data structures from their respective files)
-the following will be displayed:
-  Loading the pickled data structure of actors to movies ...
-  Loading the pickled data structure of movies to actors ...
-  Please enter an actor (or press return to exit): 
+the following will be displayed:  
+
+    Loading the pickled data structure of actors to movies ...
+    Loading the pickled data structure of movies to actors ...
+    Please enter an actor (or press return to exit): brad pitt
+    Brad Pitt has a Bacon Number of 1.
+    Brad Pitt was in Beyond All Boundaries (2009) with Kevin Bacon.
   
+This program has been created in purpose of better explaining the graph theory, since that is the main priority
+a couple of restrictions have been lifted from the parsing. The first is that if there exists multiple actors sharing
+the same name, the actor is counted as one. Second is that parantheses will not occur within the movie names.
+
+###TV Shows are included!
+The almighty great IMDB data includes more than just movies, it includes tv  shows as well, this would include award
+shows, reality shows and almost everything else you can watch on TV. Therefore the average bacon number found would
+actually be lesser as TV shows serve as an additional medium for connection.
+
 ###Is my machine good enough to run this program?
 This brings us to a really important aspect of the program. As the two data structures of actors to movies, and movies to actors
 are loaded by the program in memory (as dictionaries), roughly around 1.9 GB of RAM is occupied by the program. Thus having
