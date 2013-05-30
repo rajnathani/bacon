@@ -29,6 +29,14 @@ Good question. One of the reasons I open sourced this work of mine is because I 
 many different fields like road planning, airline routing, and even game development. Therefore I thought I'd share this
 great example of it to find distances between actors in the industry.
 
+###Visualizing the problem with graphs
+In order to solve the problem we are going to need a form of abstraction. The dataset of actors and movies alongwith their
+relationship can be viewed as a graph, where the *nodes represent actors* and *movies represent edges*.
+To find the closest connection between Kevin Bacon and the user inputted actor we can perform a *breadth first search*
+beginning at the node representing Kevin Bacon, till we reach the node representing the user inputted actor. By performing
+the search breadth first as opposed to depth first we are guarenteed to obtain the shortest path, and this is regardless
+of whether the given path is unique. More about this at [http://ocw.mit.edu/courses/sloan-school-of-management/15-082j-network-optimization-fall-2010/lecture-notes/MIT15_082JF10_lec03.pdf](http://ocw.mit.edu/courses/sloan-school-of-management/15-082j-network-optimization-fall-2010/lecture-notes/MIT15_082JF10_lec03.pdf).
+
 ###About the Implementation
 
 The language used: python  
@@ -90,7 +98,7 @@ directory of the cloned version of this repository and run it (make_bacon.py) Pl
 of popcorn or a supercomputer to get through the processing time of this program in a breeze.
 
 
-###Its not my data, please don't sue me!
+###Movie and Actors Data Source (please don't sue me!)
 I dedicate this section to explicitly let everyone know that the data which represents the entire recorded history of actors
 and movies with their relationship DOES NOT belong to me. The rightful owner is the IMDB Corporation. They have aggregated
 this amazing and useful amount of data and have ownership of the data. Once again I am not the rightful owner of the original source data.
