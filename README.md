@@ -57,9 +57,10 @@ them into two separate files which in turn can be loaded back into python dictio
 
 ###How exactly do I get started?
 The repository contains a python file name *bacon.py*, run this with python.  
-If python is present in your path/environment variables you could simply cd to the working directory of the repository and
-type:    
+If git & python are present in your path/environment variables, issue the following commands in your terminal:
 
+    git clone https://github.com/relfor/bacon
+    cd bacon
     python bacon.py
     
 After which there will be a few second wait (while the program is unpickling the data structures from their respective files)
